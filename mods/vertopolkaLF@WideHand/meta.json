@@ -1,0 +1,12 @@
+{
+  "title": "Wide Hand",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": ["Quality of Life", "Technical"],
+  "author": "vertopolkaLF",
+  "repo": "https://github.com/vertopolkaLF/balatro-wide-hand-mod",
+  "downloadURL": "https://github.com/vertopolkaLF/balatro-wide-hand-mod/releases/latest/download/WideHand-v0.1.1.zip",
+  "folderName": "WideHand",
+  "version": "0.1.1",
+  "automatic-version-check": true
+}
