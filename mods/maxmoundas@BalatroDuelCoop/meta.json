@@ -1,0 +1,12 @@
+{
+  "title": "Balatro Duel & Co-op",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": ["Content"],
+  "author": "maxmoundas",
+  "repo": "https://github.com/maxmoundas/balatro-duel-coop",
+  "downloadURL": "https://github.com/maxmoundas/balatro-duel-coop/releases/latest/download/BalatroDuelCoop.zip",
+  "folderName": "BalatroDuelCoop",
+  "version": "v1.0.0",
+  "automatic-version-check": true
+}
